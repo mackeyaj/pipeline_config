@@ -16,5 +16,7 @@ libraries {
     github
   }
 
+debug {}
+
 }
   
